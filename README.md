@@ -1,2 +1,2 @@
 # 3D-prints
-All the designs that I have 3D printed
+All the designs that I have designed using Fusion 360.
